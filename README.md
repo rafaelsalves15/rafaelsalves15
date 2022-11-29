@@ -1,5 +1,5 @@
 
-### :fire: Stats :
+### Stats :
 
 
 
