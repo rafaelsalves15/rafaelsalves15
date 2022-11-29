@@ -3,4 +3,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsalves15&langs_count=5)](https://github.com/rafaelsalves15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsalves15&langs_count=4)](https://github.com/rafaelsalves15/github-readme-stats)
